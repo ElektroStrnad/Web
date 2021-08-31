@@ -6583,6 +6583,10 @@ textarea.form-control-lg {
   max-width: 100% !important;
 }
 
+.mw-60 {
+  max-width: 60% !important;
+}
+
 .vw-100 {
   width: 100vw !important;
 }
