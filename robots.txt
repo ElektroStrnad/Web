@@ -3,5 +3,5 @@ Allow: /index.html
 Allow: /kontakt.html
 Allow: /fotodokumentace.html
 
-Sitemap: sitemap.xml
+Sitemap: /sitemap.xml
 
